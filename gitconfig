@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = camillogiugliano98000@gmail.com
+	name = Camillo Giugliano
